@@ -1,9 +1,9 @@
 //TO-DO LIST
-//1. Fix the validation while-loop on line 129. If a character is entered, it creates an infinite loop.
+//1. Fix the validation while-loop on line 132. If a character is entered, it creates an infinite loop.
 //2. Implement a way to decide when an Ace is either an 11 or a 1.
 //	 Idea: Store the values of the cards drawn in an array and search for an 11
 //	 when appropriate, delete it, and replace it with a 1.
-//3. Fix when the dealer should continue drawing on line 151.
+//3. Fix when the dealer should continue drawing on line 177.
 
 //HEADER FILES
 #include <iostream>
