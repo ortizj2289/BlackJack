@@ -1,4 +1,4 @@
 ﻿  blackjack.cpp
-C:\Users\Oscar\Desktop\BlackJack\blackjack.cpp(25,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-C:\Users\Oscar\Desktop\BlackJack\blackjack.cpp(69,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  BlackJack.vcxproj -> C:\Users\Oscar\Desktop\BlackJack\x64\Debug\BlackJack.exe
+C:\Users\Oscar\Desktop\Personal Projects\C++\BlackJack\blackjack.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Oscar\Desktop\Personal Projects\C++\BlackJack\blackjack.cpp(65,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  BlackJack.vcxproj -> C:\Users\Oscar\Desktop\Personal Projects\C++\BlackJack\x64\Debug\BlackJack.exe

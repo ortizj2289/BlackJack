@@ -1,1 +1,2 @@
 C:\Users\Oscar\Desktop\BlackJack\x64\Debug\BlackJack.exe
+C:\Users\Oscar\Desktop\Personal Projects\C++\BlackJack\x64\Debug\BlackJack.exe
